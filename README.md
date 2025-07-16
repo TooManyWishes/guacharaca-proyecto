@@ -1,6 +1,6 @@
 ==============================================
 ============ INSTRUCCIONES DE USO ============
-================================================
+==================================================
 1. El primer código, 'Detector de figuras - Elaborado.py' tiene el propósito de tomar la imagen suminstrada y entregar como respuesta 2 objetos:
 a) La matriz preparada en el terminal.
 b) Un visualizador de la matriz. 
